@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |

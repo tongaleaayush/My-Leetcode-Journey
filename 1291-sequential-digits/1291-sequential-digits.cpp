@@ -9,7 +9,8 @@ public:
 
                 if(digit<=high && digit>=low){
                     ans.push_back(digit);
-            }
+            
+                }
             }
         }
         return ans;

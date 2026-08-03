@@ -121,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0877-stone-game) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

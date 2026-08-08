@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |

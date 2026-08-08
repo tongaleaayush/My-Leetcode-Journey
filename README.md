@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0877-stone-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0050-powx-n) |
 ## Counting
 |  |
 | ------- |

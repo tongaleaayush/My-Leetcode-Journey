@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
 | [1331-rank-transform-of-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -146,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0877-stone-game) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -86,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |

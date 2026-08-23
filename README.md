@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0231-power-of-two) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |

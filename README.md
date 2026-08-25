@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 ## Greedy

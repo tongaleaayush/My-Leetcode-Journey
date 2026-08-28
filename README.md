@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

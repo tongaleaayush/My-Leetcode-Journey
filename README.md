@@ -199,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3904-smallest-stable-index-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

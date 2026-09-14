@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -209,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0181-employees-earning-more-than-their-managers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

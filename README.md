@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0290-word-pattern) |
 | [0645-set-mismatch](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0645-set-mismatch) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0796-rotate-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

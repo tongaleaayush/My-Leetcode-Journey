@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Divide and Conquer
 |  |
 | ------- |

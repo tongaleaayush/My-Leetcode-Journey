@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0796-rotate-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |

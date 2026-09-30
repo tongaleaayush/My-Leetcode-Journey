@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0796-rotate-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -248,5 +250,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

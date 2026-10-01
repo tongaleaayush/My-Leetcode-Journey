@@ -1,44 +1,36 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> stack = {};
-        if (s.size() % 2 != 0) {
-            return false;
-        }
-        for (char c : s) {
-            if (c == '(' || c == '{' || c == '[') {
-                stack.push(c);
+        vector<char> stack;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            if (s[i] == '(' || s[i] == '[' || s[i] == '{') {
+                stack.push_back(s[i]);
             }
-            if (c == ')') {
-                if (stack.empty()) {
+
+            else if (s[i] == ')') {
+                if (stack.empty() || stack.back() != '(')
                     return false;
-                }
-                if (stack.top() == '(') {
-                    stack.pop();
-                }
-                else return false;
-            } else if (c == '}') {
-                if (stack.empty()) {
+
+                stack.pop_back();
+            }
+
+            else if (s[i] == ']') {
+                if (stack.empty() || stack.back() != '[')
                     return false;
-                }
-                if (stack.top() == '{') {
-                    stack.pop();
-                }
-                else return false;
-            } 
-            else if (c == ']') {
-                if (stack.empty()) {
+
+                stack.pop_back();
+            }
+
+            else if (s[i] == '}') {
+                if (stack.empty() || stack.back() != '{')
                     return false;
-                }
-                if (stack.top() == '[') {
-                    stack.pop();
-                }
-                else return false;
+
+                stack.pop_back();
             }
         }
-        if (stack.empty()) {
-            return true;
-        }
-        return false;
+
+        return stack.empty();
     }
 };

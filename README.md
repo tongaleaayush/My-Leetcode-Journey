@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0645-set-mismatch) |
 | [0877-stone-game](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0877-stone-game) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tongaleaayush/My-Leetcode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
